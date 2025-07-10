@@ -1,0 +1,5 @@
+Hessian=com.kzrdut.common.serializer.myserializer.HessianSerializer
+protobuf=com.kzrdut.common.serializer.myserializer.ProtobufSerializer
+json=com.kzrdut.common.serializer.myserializer.JsonSerializer
+kryo=com.kzrdut.common.serializer.myserializer.KryoSerializer
+jdk=com.kzrdut.common.serializer.myserializer.ObjectSerializer
